@@ -1,0 +1,8 @@
+export { default as Button } from './Button.vue'
+export { default as Input } from './Input.vue'
+export { default as svgIcon } from './svgIcon.vue'
+export { default as TopBar } from './TopBar.vue'
+export { default as LeftBar } from './LeftBar.vue'
+export { default as Card } from './Card.vue'
+export { default as Table } from './Table.vue'
+export { default as Pagination } from './Pagination.vue'
